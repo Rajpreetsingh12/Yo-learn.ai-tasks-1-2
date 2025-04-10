@@ -243,6 +243,8 @@ http://35.223.221.32:5678
 Use the credentials from the `.env` file to log in.
 
 ![image](https://github.com/user-attachments/assets/fb60e29d-35bd-46a2-b360-bd5c18b55d33)
+![image](https://github.com/user-attachments/assets/b9302293-6db7-4d66-a7ba-42b27bab08e1)
+
 
 
 ## Step 8: Add Temporary Firewall Rules (For Testing)
