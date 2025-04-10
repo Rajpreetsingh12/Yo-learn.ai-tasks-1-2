@@ -5,6 +5,11 @@
 
 This guide helps you containerize a sample FastAPI backend (acting as an AI agent API), push it to Google Artifact Registry, and deploy it on **Google Cloud Run**. It also shows how to connect it to a frontend built with **React + Vite**, hosted via **Firebase Hosting**.
 
+## Task Architecture
+
+- ![image](https://github.com/user-attachments/assets/da875b87-db63-459a-92f4-601f4418e21d)
+
+
 
 ##  Project Structure
 
