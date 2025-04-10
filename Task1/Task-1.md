@@ -237,7 +237,7 @@ docker ps
 Open your browser and go to:
 
 ```
-http://<YOUR_PUBLIC_IP>:5678
+http://35.223.221.32:5678
 ```
 
 Use the credentials from the `.env` file to log in.
