@@ -1,5 +1,5 @@
 
-# 🚀 Deploying a FastAPI Agent Backend on Google Cloud Run (with Firebase Frontend)
+#  Deploying a FastAPI Agent Backend on Google Cloud Run (with Firebase Frontend)
 
 ## Overview
 
